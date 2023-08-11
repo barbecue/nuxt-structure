@@ -1,0 +1,18 @@
+{
+  "root": true,
+  "extends": [
+    "plugin:tailwindcss/recommended",
+    "@nuxt/eslint-config",
+    "prettier"
+  ],
+  "plugins": ["prettier"],
+  "overrides": [
+    {
+      "files": ["*.vue"],
+      "parser": "vue-eslint-parser"
+    }
+  ],
+  "rules": {
+    "vue/multi-word-component-names": 0
+  }
+}
