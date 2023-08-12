@@ -30,7 +30,7 @@
         <span class="text-cyan-400">Tailwind CSS</span>
       </h1>
       <nuxt-link
-        to="/"
+        to="https://github.com/barbecue/nuxt-structure#readme"
         class="rounded bg-gradient-to-r from-primary to-cyan-500 px-4 py-2 font-semibold text-background transition duration-300 hover:drop-shadow-primary"
       >
         Get Started
