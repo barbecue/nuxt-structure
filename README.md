@@ -25,7 +25,7 @@ Follow these steps to get your project up and running with Nuxt Structure:
 
 1. **Clone the Repository**: Start by cloning this repository to your local machine using the following command:
 
-`git clone https://github.com/your-username/nuxt-structure.git`
+`git clone https://github.com/barbecue/nuxt-structure.git`
 
 2. **Navigate to the Project Directory**: Move into the project directory:
 
