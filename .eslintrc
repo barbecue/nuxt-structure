@@ -1,10 +1,6 @@
 {
   "root": true,
-  "extends": [
-    "plugin:tailwindcss/recommended",
-    "@nuxt/eslint-config",
-    "prettier"
-  ],
+  "extends": ["plugin:tailwindcss/recommended", "@nuxt/eslint-config", "prettier"],
   "plugins": ["prettier"],
   "overrides": [
     {
