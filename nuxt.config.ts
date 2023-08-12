@@ -1,20 +1,15 @@
 export default defineNuxtConfig({
-  devtools: { enabled: true },
+  devtools: { enabled: false },
   components: ['~/components', '~/components/layouts'],
   css: ['~/stylesheets/main.scss'],
-  modules: [
-      '@nuxtjs/tailwindcss',
-      '@nuxtjs/eslint-module',
-      '@nuxtjs/google-fonts',
-      '@nuxt/image',
-      'nuxt-icon'
-  ],
+  modules: ['@nuxtjs/tailwindcss', '@nuxtjs/eslint-module', '@nuxtjs/google-fonts', '@nuxt/image', 'nuxt-icon'],
   googleFonts: {
-      download: true,
-      preconnect: true,
-      prefetch: true,
-      families: {
-          'Archivo+Black': true,
-      },
+    download: true,
+    display: 'swap',
+    preconnect: true,
+    prefetch: true,
+    families: {
+      Inter: true,
+    },
   },
-})
+});

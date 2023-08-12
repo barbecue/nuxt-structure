@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-html, body {
-  @apply font-archivo bg-black text-white;
+html,
+body {
+  @apply font-inter bg-background text-white;
 }
