@@ -3,6 +3,7 @@
   "private": true,
   "scripts": {
     "build": "nuxt build",
+    "production": "nuxt build && cross-env PORT=8080 HOST='0' NODE_ENV='production' node .output/server/index.mjs",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
