@@ -1,4 +1,4 @@
-# Nuxt Structure - Starter Template with Nuxt 3, Tailwind CSS, ESLint, and Prettier 🚀
+# Nuxt Structure - Starter Template with Nuxt 3, Tailwind CSS, ESLint, Prettier, and Pinia 🚀
 
 ![Nuxt Structure](https://barbecue.is-pretty.cool/4CggBf6.png)
 
@@ -11,6 +11,8 @@ Welcome to Nuxt Structure, a starter template for building web applications usin
 - **Tailwind CSS**: Utilizes the power of Tailwind CSS for rapid and customizable styling, enabling you to create beautiful and responsive designs with ease.
 
 - **ESLint and Prettier**: Maintain code quality and consistency with automatic linting and code formatting using ESLint and Prettier.
+
+- **Pinia**: State management powered by Pinia for a simple and reactive store management solution.
 
 - **Plugins and Modules**:
   - `@nuxtjs/tailwindcss`: Seamless integration of Tailwind CSS with Nuxt.
@@ -73,4 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 **Nuxt Structure** - Created by [barbecue](https://tuna.one) - Feel free to reach out!
 
-Enjoy building awesome projects with Nuxt 3, Tailwind CSS, ESLint, and Prettier! 🚀
+Enjoy building awesome projects with Nuxt 3, Tailwind CSS, ESLint, Prettier, and Pinia! 🚀
